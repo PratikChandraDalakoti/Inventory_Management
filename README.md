@@ -11,11 +11,12 @@ Add_New_Items_to_Inventory.ipynb:
 3) Deleting the Product if it gets expired
 
 Purchasing.ipynb:
-1)Reading the Inventory
-2)Purchasing an item
-3)Getting the Bill
-4)Updation in Sales.json about sales record
+
+1) Reading the Inventory
+2) Purchasing an item
+3) Getting the Bill
+4) Updation in Sales.json about sales record
 
 Json file:  
-1)Record.json
-2)Sales.json
+1) Record.json
+2) Sales.json
